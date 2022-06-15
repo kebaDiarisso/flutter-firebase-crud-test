@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324314774069",
+    "project_id": "kindacode-cdfdc",
+    "storage_bucket": "kindacode-cdfdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324314774069:android:1bc666de73c845e4a98f7c",
+        "android_client_info": {
+          "package_name": "com.kindacode.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324314774069-j5c7jsrudmih82gihbut63c4p64gaks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-_48P5hzeCjwwfaopoPmmsMsBeWHedo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324314774069-j5c7jsrudmih82gihbut63c4p64gaks9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
